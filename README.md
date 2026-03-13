@@ -1,4 +1,4 @@
-# 200 AI Prompts for Base Chain
+# 200-ai-prompts-for-base-chain
 
 Grâce à notre technologie d'intelligence artificielle avancée, nous sommes fiers de vous offrir un lot exceptionnel de 200 prompts pour les chaînes de base. Que vous soyez un développeur, un chercheur
 
@@ -14,7 +14,7 @@ Grâce à notre technologie d'intelligence artificielle avancée, nous sommes fi
 ## Sample
 
 ```json
-"..."
+Keys: title, description, price
 ```
 
 ## Usage
